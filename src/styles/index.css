@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+input,
+button {
+  font-family: inherit;
+}
+
+.flex {
+  display: flex;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
